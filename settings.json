@@ -1,9 +1,9 @@
 {
-  "name": "AFK Bot",
+  "name": "BOOOOOTTTT",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "AFK12345",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "VishwaTheja_edits.aternos.me",
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "meow12345"
     },
     "anti-afk": {
       "enabled": true,
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 10000000000,
+      "repeat-delay": 10000,
       "messages": [
         "Hi"
       ]
