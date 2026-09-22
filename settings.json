@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "arushrujput.aternos.me",
-    "port": 17832,
+    "ip": "VishwaTheja_edits.aternos.me",
+    "port": 42944,
     "version": "",
     "try-creative": false
   },
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 1200,
       "messages": [
         "I'm a regular player",
         "Subscribe to Slobos!",
